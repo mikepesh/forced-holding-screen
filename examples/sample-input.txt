@@ -1,0 +1,15 @@
+# Example of what to paste — de-identified: ticker + description only.
+# Optional extra columns: "% of Account" (a percentage, not dollars) and account type.
+# DO NOT paste dollar amounts, share quantities, or account numbers.
+
+Symbol   Description                          % of Account   Account
+FZROX    FIDELITY ZERO TOTAL MARKET INDEX     18.5           Individual
+VTV      VANGUARD VALUE ETF                   17.0           Roth IRA
+QQQM     INVESCO NASDAQ 100 ETF               15.8           Individual
+FXAIX    FIDELITY 500 INDEX FUND              12.4           Individual
+VXUS     VANGUARD TOTAL INTL STOCK ETF        10.4           Roth IRA
+DXYZ     DESTINY TECH100 INC                   5.5           Individual
+AAPL     APPLE INC                             5.5           Roth IRA
+NVDA     NVIDIA CORP                           4.7           Individual
+FXNAX    FIDELITY US BOND INDEX FUND           4.3           Roth IRA
+SPAXX    FIDELITY GOVERNMENT MONEY MARKET      2.1           Individual

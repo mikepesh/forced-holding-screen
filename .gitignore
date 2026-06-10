@@ -1,0 +1,4 @@
+.DS_Store
+*.swp
+# never commit a real positions export
+*.csv
