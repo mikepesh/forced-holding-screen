@@ -42,6 +42,12 @@ No dependencies, no install scripts, nothing to run.
 
 Because the input is de-identified, there's nothing sensitive to protect, so it doesn't need to run locally. And because index membership and fund holdings change constantly, live web search beats any data file that would go stale. The result is one portable text file instead of an app to install and maintain.
 
+## Built with AI
+
+This skill was designed and specified by **Mike "Pesh" Poeschl** and built using [Claude](https://claude.ai) (Anthropic) as the primary authoring tool. The requirements, logic, privacy-by-design constraints, and classification framework came from the author; Claude translated those specifications into the `SKILL.md` prompt and supporting files.
+
+It is not hand-coded in the traditional sense — it is a human-directed, AI-assisted artifact. That distinction feels worth naming: the judgment calls and design decisions are human; the drafting is AI. If you use or adapt this, you're welcome to do the same.
+
 ## Contributing
 
 Issues and PRs welcome — especially clarifications to the classification logic or the
